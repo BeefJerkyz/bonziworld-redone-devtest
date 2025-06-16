@@ -1,0 +1,13 @@
+purple
+blue
+red
+green
+pink
+black
+brown
+yellow
+gold
+devil
+glare
+cyan
+gray
